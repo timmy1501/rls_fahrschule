@@ -1,4 +1,4 @@
 {
-  "version": "1.0.0",
-  "changelog": "Fahrschule Script: Schriftliche Prüfung + Praktische Fahrprüfung + brutal_3dtextui + DB Lizenzen"
+  "version": "2.0.0",
+  "changelog": "Schriftliche Prüfung (30 Fragen) + Praktische Fahrprüfung (esx_dmvschool Checkpoints) + brutal_textui & brutal_notify Integration + DB: user_licenses (dmv_auto, dmv_Bike, dmv_LKW, drive, drive_bike, drive_truck)"
 }
